@@ -12,4 +12,3 @@ trigger AppleWatch on Opportunity (before insert) {
         insert;
     }
 }
-
